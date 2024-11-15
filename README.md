@@ -7,3 +7,7 @@ You can go to what this template is doing [here](https://my12parsecs.github.io/m
 
 The URL is going to be `https://{YOURHANDLE}.github.io/{REPONAME}`.
 You can make a folder with an index.md and it will be the subpage like `https://{YOURHANDLE}.github.io/{REPONAME}/{FOLDERNAME}`.
+
+
+Turn on GitHub Pages in your github repo settings.
+Settings -> Pages -> Branch-> main
